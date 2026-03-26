@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebDashboardBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28bae933b2b6c9a995319b021e845f8c11cf4845")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca883762c23789fb11bd2ae3a6d52082c64cd3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebDashboardBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebDashboardBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

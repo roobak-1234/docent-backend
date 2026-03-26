@@ -2678,7 +2678,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rooba\\.nuget\\packages\\": {}
+    "D:\\NugetPackages": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2686,7 +2686,7 @@
       "projectUniqueName": "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
       "projectName": "WebDashboardBackend",
       "projectPath": "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
-      "packagesPath": "C:\\Users\\rooba\\.nuget\\packages\\",
+      "packagesPath": "D:\\NugetPackages",
       "outputPath": "D:\\Projects\\Docent\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
