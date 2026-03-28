@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj": {}
+    "d:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj": {
+    "d:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
+        "projectUniqueName": "d:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
         "projectName": "WebDashboardBackend",
-        "projectPath": "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
+        "projectPath": "d:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
         "packagesPath": "D:\\NugetPackages",
-        "outputPath": "D:\\Projects\\Docent\\backend\\obj\\",
+        "outputPath": "d:\\Projects\\Docent\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rooba\\AppData\\Roaming\\NuGet\\NuGet.Config"

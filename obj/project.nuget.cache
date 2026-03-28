@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jPvJr3x5WkM=",
+  "dgSpecHash": "LKhHMrt0zNc=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
+  "projectFilePath": "d:\\Projects\\Docent\\backend\\WebDashboardBackend.csproj",
   "expectedPackageFiles": [
     "D:\\NugetPackages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "D:\\NugetPackages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
