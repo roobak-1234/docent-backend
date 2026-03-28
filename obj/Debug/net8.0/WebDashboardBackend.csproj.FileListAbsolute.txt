@@ -102,3 +102,4 @@ D:\Projects\Docent\backend\obj\Debug\net8.0\refint\WebDashboardBackend.dll
 D:\Projects\Docent\backend\obj\Debug\net8.0\WebDashboardBackend.pdb
 D:\Projects\Docent\backend\obj\Debug\net8.0\WebDashboardBackend.genruntimeconfig.cache
 D:\Projects\Docent\backend\obj\Debug\net8.0\ref\WebDashboardBackend.dll
+D:\Projects\Docent\backend\bin\Debug\net8.0\appsettings.Development.json
