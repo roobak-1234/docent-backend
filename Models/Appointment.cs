@@ -21,6 +21,9 @@ namespace WebDashboardBackend.Models
         // Pending | Confirmed | Cancelled | Completed
         public string Status { get; set; } = "Pending";
 
+        public string? DoctorId { get; set; }
+        public string? DoctorName { get; set; }
+
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
     }
 }

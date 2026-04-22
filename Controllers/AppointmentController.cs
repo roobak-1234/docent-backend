@@ -164,6 +164,21 @@ namespace WebDashboardBackend.Controllers
         }
 
         // ──────────────────────────────────────────────────────────────────────
+        // DOCTOR: Get appointments for a specific doctor
+        // GET /api/appointments/doctor/{doctorId}
+        // ──────────────────────────────────────────────────────────────────────
+        [HttpGet("doctor/{doctorId}")]
+        public async Task<IActionResult> GetDoctorAppointments(string doctorId)
+        {
+            var appointments = await _db.Appointments
+                .Where(a => a.DoctorId == doctorId)
+                .OrderByDescending(a => a.AppointmentDate)
+                .ToListAsync();
+
+            return Ok(appointments);
+        }
+
+        // ──────────────────────────────────────────────────────────────────────
         // PUBLIC: Search appointment-enabled hospitals by name (for unlinked patients)
         // GET /api/appointments/search?q=apollo
         // ──────────────────────────────────────────────────────────────────────
